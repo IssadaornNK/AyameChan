@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AyameChan/static/css/main.f855e6bc.css",
+    "main.js": "/AyameChan/static/js/main.1119791d.js",
+    "static/js/453.8de7d4ae.chunk.js": "/AyameChan/static/js/453.8de7d4ae.chunk.js",
+    "static/media/logo.svg": "/AyameChan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AyameChan/index.html",
+    "main.f855e6bc.css.map": "/AyameChan/static/css/main.f855e6bc.css.map",
+    "main.1119791d.js.map": "/AyameChan/static/js/main.1119791d.js.map",
+    "453.8de7d4ae.chunk.js.map": "/AyameChan/static/js/453.8de7d4ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1119791d.js"
+  ]
+}

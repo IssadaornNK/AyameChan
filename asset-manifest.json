@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/AyameChan/static/css/main.e2142e24.css",
-    "main.js": "/AyameChan/static/js/main.9bcf55ac.js",
-    "static/js/453.8de7d4ae.chunk.js": "/AyameChan/static/js/453.8de7d4ae.chunk.js",
-    "static/media/bg.png": "/AyameChan/static/media/bg.a2f0874067a092774823.png",
-    "static/media/hair2.PNG": "/AyameChan/static/media/hair2.bb37ff168153979255c1.PNG",
-    "static/media/hair3.PNG": "/AyameChan/static/media/hair3.92583a36527b72122375.PNG",
-    "static/media/hair1.png": "/AyameChan/static/media/hair1.a4e94401d1cb0aa1cafb.png",
-    "static/media/dress2.PNG": "/AyameChan/static/media/dress2.b3c6f72e09b8f04eda8e.PNG",
-    "static/media/dress1.PNG": "/AyameChan/static/media/dress1.1b9bdafe0f36aab7091a.PNG",
-    "static/media/dress3.PNG": "/AyameChan/static/media/dress3.2b17f37464743dc668bd.PNG",
-    "static/media/dress4.PNG": "/AyameChan/static/media/dress4.4619e7393d431ad0fcca.PNG",
-    "index.html": "/AyameChan/index.html",
-    "main.e2142e24.css.map": "/AyameChan/static/css/main.e2142e24.css.map",
-    "main.9bcf55ac.js.map": "/AyameChan/static/js/main.9bcf55ac.js.map",
-    "453.8de7d4ae.chunk.js.map": "/AyameChan/static/js/453.8de7d4ae.chunk.js.map"
+    "main.css": "/AyameChanNoCloset/static/css/main.b5fdfbaf.css",
+    "main.js": "/AyameChanNoCloset/static/js/main.7eb56d7e.js",
+    "static/js/453.8de7d4ae.chunk.js": "/AyameChanNoCloset/static/js/453.8de7d4ae.chunk.js",
+    "static/media/bg.png": "/AyameChanNoCloset/static/media/bg.a2f0874067a092774823.png",
+    "static/media/hair2.PNG": "/AyameChanNoCloset/static/media/hair2.bb37ff168153979255c1.PNG",
+    "static/media/hair3.PNG": "/AyameChanNoCloset/static/media/hair3.92583a36527b72122375.PNG",
+    "static/media/hair1.png": "/AyameChanNoCloset/static/media/hair1.a4e94401d1cb0aa1cafb.png",
+    "static/media/dress2.PNG": "/AyameChanNoCloset/static/media/dress2.b3c6f72e09b8f04eda8e.PNG",
+    "static/media/dress1.PNG": "/AyameChanNoCloset/static/media/dress1.1b9bdafe0f36aab7091a.PNG",
+    "static/media/dress3.PNG": "/AyameChanNoCloset/static/media/dress3.2b17f37464743dc668bd.PNG",
+    "static/media/dress4.PNG": "/AyameChanNoCloset/static/media/dress4.4619e7393d431ad0fcca.PNG",
+    "index.html": "/AyameChanNoCloset/index.html",
+    "main.b5fdfbaf.css.map": "/AyameChanNoCloset/static/css/main.b5fdfbaf.css.map",
+    "main.7eb56d7e.js.map": "/AyameChanNoCloset/static/js/main.7eb56d7e.js.map",
+    "453.8de7d4ae.chunk.js.map": "/AyameChanNoCloset/static/js/453.8de7d4ae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2142e24.css",
-    "static/js/main.9bcf55ac.js"
+    "static/css/main.b5fdfbaf.css",
+    "static/js/main.7eb56d7e.js"
   ]
 }

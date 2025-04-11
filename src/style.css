@@ -1,0 +1,128 @@
+/* Main container */
+#container {
+    position: relative;
+    margin: 0 auto;
+    padding: 20px;
+    width: 100%;
+    height: 100vh;
+    background-color: white;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+/* Background */
+#background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('./assets/bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 0;
+}
+
+/* Base character */
+#body {
+    position: absolute;
+    width: 2048px;
+    height: 2732px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-image: url("./assets/dress/dress1.PNG");
+    z-index: 1;
+}
+
+/* Avatar parts */
+.avatar-part {
+    position: absolute;
+    width: 2048px;
+    height: 2732px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    z-index: 2; 
+}
+
+/* Hair styles */
+.hair1 {
+    background-image: url("./assets/hair/hair1.png");
+}
+.hair2 {
+    background-image: url("./assets/hair/hair2.PNG");
+}
+.hair3 {
+    background-image: url("./assets/hair/hair3.PNG");
+}
+
+/* Dress styles */
+.dress1 {
+    background-image: url("./assets/dress/dress1.PNG");
+    z-index: 3; 
+}
+.dress2 {
+    background-image: url("./assets/dress/dress2.PNG");
+    z-index: 3; 
+}
+.dress3 {
+    background-image: url("./assets/dress/dress3.PNG");
+    z-index: 3; 
+}
+.dress4 {
+    background-image: url("./assets/dress/dress4.PNG");
+    z-index: 3; 
+}
+
+  #randomize {
+    padding: 15px 30px;
+    width: auto;
+    color: #ffffff; 
+  }
+
+/* Controls container - bottom center */
+#controls {
+    position: absolute;
+    bottom: 200px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%; 
+}
+
+/* Buttons container for hair and dress controls */
+#hair-controls, #dress-controls {
+    display: flex;
+    justify-content: center; 
+    width: 500px; 
+    margin-bottom: 400px;
+}
+
+/* Buttons */
+button {
+    display: block;
+    padding: 20px 40px;
+    font-size: 48px;
+    font-weight: bold;
+    background-color: #8b5a9f;
+    border: 1px solid #805292;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    width: 500px;
+    margin: 0 1000px; 
+}
+
+/* Button hover effect */
+button:hover {
+    background-color: #bbadff;
+}
